@@ -54,14 +54,14 @@ topics:
   - name: Web design
   
   - name: JavaScript
-  - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png
+    image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png
     
   - name: GNU/Linux
-  - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/407px-Tux.svg.png
-  - web_url: https://www.kernel.org/
+    image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/407px-Tux.svg.png
+    web_url: https://www.kernel.org/
   
   - name: React
-  - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png
-  - web_url: https://reactjs.org/
+    image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png
+    web_url: https://reactjs.org/
 
 theme: jekyll-theme-minimal
