@@ -47,14 +47,21 @@ projects:
   # youtube: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: Haxe
+    web_url: https://haxe.org/
+    image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Haxe_logo.svg/351px-Haxe_logo.svg.png
 
   - name: Web design
-
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  
+  - name: JavaScript
+  - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png
+    
+  - name: GNU/Linux
+  - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/407px-Tux.svg.png
+  - web_url: https://www.kernel.org/
+  
+  - name: React
+  - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png
+  - web_url: https://reactjs.org/
 
 theme: jekyll-theme-minimal
