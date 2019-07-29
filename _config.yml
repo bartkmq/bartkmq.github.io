@@ -60,8 +60,8 @@ topics:
     image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/407px-Tux.svg.png
     web_url: https://www.kernel.org/
   
-  - name: React
-    image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png
-    web_url: https://reactjs.org/
+  - name: AngularJS
+    image_url: https://angular.io/assets/images/logos/angular/angular.png
+    web_url: https://angularjs.org/
 
 theme: jekyll-theme-minimal
